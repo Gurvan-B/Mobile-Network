@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NetworkBC</string>
+    <string name="title_home">Bienvenue </string>
+    <string name="reset">Réinitialiser</string>
+    <string name="new_device">Nouvel appareil</string>
+    <string name="new_link">Nouveau lien</string>
+    <string name="create">Créer</string>
+    <string name="undo">Annuler</string>
+    <string-array name="modes">
+        <item>Ajouter un appareil connecté</item>
+        <item>Ajouter une relation entre les appareils</item>
+        <item>Deplacer un appareil ou une relation</item>
+        <item>Modifier un appareil ou une relation</item>
+    </string-array>
+</resources>

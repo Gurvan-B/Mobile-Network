@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_supprimer_lien"
+        android:title="Supprimer" />
+
+    <item
+        android:id="@+id/menu_renommer_lien"
+        android:title="Renommer" />
+
+    <item
+        android:id="@+id/menu_epaissir_lien"
+        android:title="Épassir" />
+
+    <item
+        android:id="@+id/menu_changer_couleur_lien"
+        android:title="Changer la couleur" />
+
+</menu>

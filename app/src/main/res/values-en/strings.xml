@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NetworkBC</string>
+    <string name="title_home">Welcome</string>
+    <string name="reset">Reset</string>
+    <string name="new_device">New device</string>
+    <string name="new_link">New link</string>
+    <string name="create">Create</string>
+    <string name="undo">Undo</string>
+    <string-array name="modes">
+        <item>Add a new device</item>
+        <item>Add a new link</item>
+        <item>Move devices and links</item>
+        <item>Edit devices and links</item>
+    </string-array>
+</resources>
